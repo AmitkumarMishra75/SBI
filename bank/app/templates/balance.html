@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balance Inquiry</title>
+    <link rel="stylesheet" href="{% static 'css/balance.css' %}">
+    <link rel="shortcut icon" href="data:image/png;base64,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">
+</head>
+<body>
+    {% include 'nav.html' %}
+    <div class="main">
+        <div class="header">
+            <h1>Balance Inquiry</h1>
+        </div>
+        <div class="form">
+            <form action="" method="POST">
+                {% csrf_token %}
+                <div class="fg">
+                    <!-- <label for="name">Account Number : </label> -->
+                    <input type="text" name="account_number" id="account_number" placeholder="Enter Your Account Number" required>
+                </div>
+        
+                <div class="fg">
+                    <!-- <label for="aadhar">Pin : </label> -->
+                    <input type="password" name="pin" id="pin" placeholder="Enter Your Pin" required>
+                </div>
+        
+                <div class="sb">
+                    <div class="b2">
+                        <button type="submit">Check Balance</button>
+                    </div>
+                </div>
+            </form>
+            {% if balance_info %}
+            <div class="form2">
+                <h2>Account Balance</h2>
+                <div class="fg"><p><strong>Account Number:</strong> {{ balance_info.account_number }}</p></div>
+                <div class="fg"><p><strong>Name:</strong> {{ balance_info.name }}</p></div>
+                <div class="fg"><p><strong>Balance:</strong> ₹{{ balance_info.balance }}</p></div>    
+            </div>
+        </div>
+         
+    </div>
+
+            
+    {% elif error_message %}
+        <p>{{ error_message }}</p>
+            
+    {% endif %}
+    
+</body>
+</html>
