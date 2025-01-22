@@ -82,3 +82,15 @@ A **Bank Management System** built using **Django** that enables users to open a
 
 8. **Account Details (`display`)**  
    View masked personal details securely.
+
+# **IMAGES**
+
+![Image](https://github.com/user-attachments/assets/64793e95-d0a9-410b-a062-8cbee94b687d)
+![Image](https://github.com/user-attachments/assets/2590df3c-833b-458b-8393-1bed6ee89e39)
+![Image](https://github.com/user-attachments/assets/2014a76e-8832-4ff0-a13a-fd4702adbc90)
+![Image](https://github.com/user-attachments/assets/e49a1c91-e804-4d6b-af4b-964e0c44906a)
+![Image](https://github.com/user-attachments/assets/205eb07c-108e-4f61-aa22-592fdda23222)
+![Image](https://github.com/user-attachments/assets/b0ec1c60-8a51-439e-8ff3-25dade284698)
+![Image](https://github.com/user-attachments/assets/3e86f830-a0bc-42d9-9937-2009c13210b4)
+![Image](https://github.com/user-attachments/assets/f1c2cd40-732a-4748-bbf2-633ddd65295f)
+![Image](https://github.com/user-attachments/assets/7d1742ea-5f60-4936-b3fb-e5ec9d6d94c1)
